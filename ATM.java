@@ -5,8 +5,6 @@ public class ATM {
 	private Double depositAmount;
 	private Double withdrawAmount;
 	
-	
-	
 	public Double getBalance() {
 		return balance;
 	}
