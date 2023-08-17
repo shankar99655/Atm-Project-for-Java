@@ -1,5 +1,4 @@
 package packAtm;
-
 public class ATM {
 	private double balance;
 	private Double depositAmount;
